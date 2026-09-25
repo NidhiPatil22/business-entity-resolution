@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# AWS / secrets
+.env
+.aws/
+*.pem
+
+# Local files
+.DS_Store
+
